@@ -1,0 +1,2 @@
+- can adjust speed etc.
+- about rating
