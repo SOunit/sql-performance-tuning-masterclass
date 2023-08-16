@@ -1,0 +1,2 @@
+- to learn all, you need an year or so
+- we focus on only minimum to make performance better
