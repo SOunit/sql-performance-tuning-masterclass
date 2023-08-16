@@ -15,3 +15,11 @@
   - keep instance for db
 - Streams pool
   - handle stream
+
+# data
+
+- has data files
+
+# redo data
+
+- to keep redo
