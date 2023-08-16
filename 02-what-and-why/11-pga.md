@@ -1,0 +1,2 @@
+- session specific operations
+- can increase memory amount for better performance

@@ -1,0 +1,4 @@
+- most of query are similar
+- Library cache for store Execution plan
+- Data Dictionary for store data base object and permissions
+- Result cache for store query result
