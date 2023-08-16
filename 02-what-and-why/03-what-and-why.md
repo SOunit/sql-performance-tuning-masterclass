@@ -1,0 +1,4 @@
+- what is sql tuning
+- oracle is very a very powerful database
+- better performance - less hardware cost
+- SQL tuning is the combination of some techniques
