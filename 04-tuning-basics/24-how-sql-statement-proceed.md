@@ -1,0 +1,3 @@
+- there is hard parse and soft parse
+- parse is the heavy process than execution
+- tuning is targeting parse process and optimization in parse
