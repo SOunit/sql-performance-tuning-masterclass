@@ -14,6 +14,8 @@ union all
 select * from sales where promo_id = 33 and prod_id <> 14
 ```
 
+# point / insight
+
 - cost changes by table volume and selection data amount!!!
   - if table is big and selection is small, transform happens for smaller cost
   - if table is small then the cost is almost same, no transform
