@@ -1,4 +1,6 @@
-# Or expansion
+# query transform sample
+
+## Or expansion
 
 - or operator prevent using index and leads to low performance
 
