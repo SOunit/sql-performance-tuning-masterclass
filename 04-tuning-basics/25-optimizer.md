@@ -1,0 +1,5 @@
+- check all possible access paths
+  - if get 1% of data, use index
+  - if get 25% of data, read whole table
+- there is many way to get the data
+- all query can be improved
