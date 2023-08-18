@@ -1,0 +1,2 @@
+- the most important is table schema design
+  - query can improve performance, but table schema design is the most effective
