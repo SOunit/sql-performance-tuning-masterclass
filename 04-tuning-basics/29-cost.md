@@ -1,0 +1,7 @@
+- how to calculate cost
+  - multiple them
+    - single block I/O cost
+    - multiple block I/O cost
+    - cpu cost
+  - and divide by this
+    - single block read time
