@@ -1,0 +1,2 @@
+- start from easy and quick one
+  - most of bad performance comes from bad query
