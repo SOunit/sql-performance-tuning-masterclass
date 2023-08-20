@@ -1,0 +1,5 @@
+- join order matters
+- there's 3 ways to join tables
+- test join orders, test join methods
+- and return execution plan
+  - learn how to read execution plan later
