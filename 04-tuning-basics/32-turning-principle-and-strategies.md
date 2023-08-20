@@ -1,0 +1,10 @@
+- SQL tuning principles
+  - identify the issue
+    - could be CPU, network, etc.
+  - clarify the details of that issue
+  - collect data
+    - SQL performance analyzer
+    - SQL trace
+    - OS report
+    - report
+    - report
