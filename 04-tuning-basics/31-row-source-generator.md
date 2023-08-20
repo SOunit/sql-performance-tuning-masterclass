@@ -1,0 +1,5 @@
+- row source generator
+  - source to get row data
+    - table
+    - view
+    - result of join or group
