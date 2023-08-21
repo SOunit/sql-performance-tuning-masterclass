@@ -1,0 +1,6 @@
+- Autotrace
+  - pro:
+    - more accurate
+  - con:
+    - have to run query
+      - insert or update can lead to side effect
