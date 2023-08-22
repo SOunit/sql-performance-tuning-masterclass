@@ -37,3 +37,4 @@
   - use table access
 
 - join and access path is main reason for bad sql query
+  - understand what is bad access path and try to change
